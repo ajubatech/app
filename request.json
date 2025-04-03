@@ -1,0 +1,6 @@
+{
+  "event": "USER_ACTION",
+  "token": "RECAPTCHA_TOKEN",
+  "expectedAction": "USER_ACTION",
+  "threshold": 0.5
+}
